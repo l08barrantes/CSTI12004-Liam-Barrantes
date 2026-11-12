@@ -1,7 +1,8 @@
-//fcha.js - Ficha de contacto da un servicio (se enlaza al final de contacto.html)
-//datos de la tablas de tarifas de contacto.html
-console.log("====ESTUDIO LUZ CLARA ====");
-console.log("Sección:\tIndividual");//ALINEA EL DATO
-console.log("Tipo\t\"Retrato\""); //MUESTRA LAS COMILLAS
-console.log("Precio\t\u20A45 000"); //u20A1=
-
+// ficha.js - Ficha de un servicio (Se enlaza al final de contacto.html)
+/*datos de la tabla de tarifas de contacto.html */
+console.log("===== ESTUDIO LUZ CLARA ======");
+console.log("Sesión:\tIndividual"); //alinea el dato
+console.log('Tipo:\t"Retrato"'); //muestra las comillas
+console.log("Precio:\t\u20A145 000"); //u20A1 = ¢
+console.log("Tiempo:\t1 hora \nLugar:\tSan José"); //\n salto de linea
+console.warn("¡Qudan pocas fechas este mes!"); //aviso amarillo
