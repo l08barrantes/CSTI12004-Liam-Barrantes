@@ -579,7 +579,7 @@ CÓMO USAR ESTE BLOQUE (Clase 04)
 
 <div align="center">
 
-<strong>Valery Shanay Mora Acevedo</strong>
+<strong>Liam Barrantes Calvo</strong>
 
 <p>Portafolio elaborado durante el módulo CSTI12004 · Instituto Nacional de Aprendizaje · 2026-2027</p>
 
