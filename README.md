@@ -444,7 +444,7 @@ Archivo: [pruebas/js/pruebas.js](UA1/S02/Prueba_Entorno/js/app.js.)
 <details>
 <summary>▼<b>Clase 03 · 12/11/2026 · Cacería de errores</b></summary>
 
-Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara/js/ficha.js](luz-clara/js/ficha.js) · [casa-tomillo/js/talleres.js](casa-tomillo/js/talleres.js)
+Archivos: [horario/js/horarios.js](UA1/S03/js/horario.js) · [luz-clara/js/ficha.js](luz-clara/js/ficha.js) · [casa-tomillo/js/talleres.js](casa-tomillo/js/talleres.js)
 
 **Cacería de errores**
 
@@ -548,6 +548,9 @@ Archivos: `UA1/S06/` · `luz-clara/js/` · `casa-tomillo/js/`
 | --------------------------------------------------------- | --- | ------ |
 | Escribo condicionales para evaluar distintos escenarios.  | X   |        |
 | Uso la consola y DevTools para revisar y depurar código.  | X   |        |
+
+
+
 
 </details>
 
