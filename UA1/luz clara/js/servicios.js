@@ -1,9 +1,16 @@
-//servicio.js - las tarifas con call backs 
+//servicios.js - Las tarifas con calllbacks
 const tarifas = [
-  {servicio: "individual", monto: 45000},
-  {servicio: "familiar", monto: 45000},
-  {servicio: "perfil profesional", monto: 45000},
-  {servicio: "individual", monto: 45000},
-  {servicio: "individual", monto: 45000},
+  { servicio: "Individual", monto: 45000 },
+  { servicio: "Familiar", monto: 75000 },
+  { servicio: "Perfil profesional", monto: 38000 },
+  { servicio: "Catalogo basico", monto: 30000 },
+  { servicio: "Media jornada", monto: 120000 },
 ];
-tarifas.forEach ((t))
+tarifas.forEach((t) => {
+  console.log(`${t.servicio}: ${formatoColones(t.monto)}`);
+});
+const nombres = tarifas.map((t) => t.servicio);
+console.log(`Servicios: ${nombres.join(", ")}`);
+
+const economicos = tarifas.filter((t) => t.monto < 50000);
+console.log(`Económicos/Menos de ¢50 000: ${economicos.length}`);

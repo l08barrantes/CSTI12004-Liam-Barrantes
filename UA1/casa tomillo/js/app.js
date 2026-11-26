@@ -1,2 +1,3 @@
-console.log("¡Hola desde Casa Tomillo!");
-console.log("Javascript está enlazado");
+//app.js pruba de entorno
+console.log("¡Hola desde casa tomilo!");
+console.log("¡JavaScript está enlazado!");
